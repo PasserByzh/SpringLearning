@@ -17,6 +17,12 @@
     -->
     <bean id="SomeService" class="org.example.service.impl.SomeServiceImpl"/>
 
+
+    <!--
+    Spring 创建一个非自定义的对象，创建一个存在的某个类的对象
+    -->
+    <bean id="myDate" class="java.util.Date"/>
+
 </beans>
 
 <!--

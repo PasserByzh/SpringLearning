@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--
+
+    di：给属性赋值
+    1. set注入（设值注入）：Spring调用类的set方法，你可以在set方法中完成属性赋值
+        1）简单类型的set注入
+            <bean id="xx" class="yyy">
+                <property name="属性名字" value="此属性的值">
+                    一个property只能给一个属性赋值
+                </property>
+            </bean>
+    -->
+    <bean id="Student" class="org.example.demo01.Student">
+        <property name="name" value="PasserByzh"/><!--setName("PasserByzh")-->
+        <property name="age" value="1000"/><!--setAge(1000)-->
+    </bean>
+
+
+</beans>
