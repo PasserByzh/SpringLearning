@@ -12,6 +12,8 @@
     Spring就完成了SomeService someService = new SomeServiceImpl();
     Spring 是把创建好的对象放入到map中，spring框架有一个map存放对象的。
     例如：springMap.put(id的值，对象）
+
+    一个bean标签声明一个对象
     -->
     <bean id="SomeService" class="org.example.service.impl.SomeServiceImpl"/>
 
