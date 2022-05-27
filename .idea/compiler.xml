@@ -8,11 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Spring02" />
         <module name="Spring01" />
+        <module name="Spring_DI_Annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="di-annotation" target="8" />
       <module name="Spring01" target="1.8" />
       <module name="Spring02" target="1.8" />
+      <module name="Spring_DI_Annotation" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

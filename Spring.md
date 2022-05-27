@@ -41,6 +41,17 @@ Spring  管理对象，管理对象之间的关系，减轻项目之间的管理
 > Spring底层创建对象，使用的是反射机制。
 
 
+- @Component
+- @Respotory
+- @Service
+- @Controller
+- @Vlaue
+- @Autowired
+- @Resource
+
+
+IOC 能实现解耦合
+IOC 能实现业务对象之间的解耦合，例如service和dao对象之间的解耦合。
 
 
 
