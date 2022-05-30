@@ -4,7 +4,7 @@ import com.passerbyzh.service.SomeService;
 
 public class SomeServiceImpl implements SomeService {
     @Override
-    public void doSomething1() {
+    public void doSomething1(int num) {
         System.out.println("SomeServiceImpl doSomething1");
     }
 
