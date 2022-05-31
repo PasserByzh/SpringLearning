@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/Spring01/pom.xml" />
         <option value="$PROJECT_DIR$/Spring02/pom.xml" />
         <option value="$PROJECT_DIR$/Spring_DI_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Mybatis/pom.xml" />
       </list>
     </option>
   </component>

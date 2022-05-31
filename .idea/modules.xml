@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProxyDemo/ProxyDemo.iml" filepath="$PROJECT_DIR$/ProxyDemo/ProxyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-AOP/Spring-AOP.iml" filepath="$PROJECT_DIR$/Spring-AOP/Spring-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Mybatis/Spring-Mybatis.iml" filepath="$PROJECT_DIR$/Spring-Mybatis/Spring-Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring01/Spring01.iml" filepath="$PROJECT_DIR$/Spring01/Spring01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring02/Spring02.iml" filepath="$PROJECT_DIR$/Spring02/Spring02.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo.iml" />
